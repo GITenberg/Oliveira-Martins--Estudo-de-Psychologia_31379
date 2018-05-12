@@ -1,0 +1,32 @@
+_repo: Oliveira-Martins--Estudo-de-Psychologia_31379
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barreto, Moniz
+    aliases:
+    - Moniz Barreto, Guilherme
+    - Barreto, Guilherme Moniz
+    birthdate: 1865
+    deathdate: 1894
+    gutenberg_agent_id: '35186'
+    url: http://www.gutenberg.org/2009/agents/35186
+    wikipedia: http://pt.wikipedia.org/wiki/Guilherme_Joaquim_de_Moniz_Barreto
+description: ''
+gutenberg_bookshelf: PT Biografia
+gutenberg_issued: '2010-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31379'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DP'
+- !lcsh 'Oliveira Martins, J. P. (Joaquim Pedro), 1845-1894'
+- !lcsh 'Statesmen -- Portugal -- Biography'
+title: 'Oliveira Martins: Estudo de Psychologia'
+url: http://www.gutenberg.org/ebooks/31379
